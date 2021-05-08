@@ -1,0 +1,225 @@
+body {
+    background-color: black;
+}
+
+.everything {
+    margin-top: 150px;
+}
+
+.side {
+    margin-left: 210px;
+    width: 320px;
+    height: 2000px;
+    float: left;
+}
+
+.side img {
+    float: right;
+}
+
+.personal {
+    float: right;
+    margin-top: 50px;
+}
+
+.personal p {
+    text-align: right;
+    margin-right: 25px;
+    line-height: 5px;
+    font-family: 'Mulish', sans-serif;
+    font-size: 110%;
+    color: white;
+}
+
+.personal a {
+    text-align: right;
+    margin-right: 25px;
+    line-height: 6px;
+    font-family: 'Mulish', sans-serif;
+    font-size: 110%;
+    text-decoration: none;
+    color: white;
+    float: right;
+}
+
+.experience a:hover {
+    color: #db9d0b;
+}
+
+.personal a:hover {
+    color: #db9d0b;
+}
+
+.mainBody {
+    margin-left: 650px;
+    width: 990px;
+    height: auto;
+
+}
+
+.mainBody h1 {
+    line-height: 0.2px;
+    font-size: 80px;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+
+.mainBody p {
+    padding-top: 30px;
+    text-align: left;
+    font-family: 'Mulish', sans-serif;
+    font-size: 28px;
+    color: white;
+}
+
+.mainBody h4 {
+    padding-top: 30px;
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+
+/* Gradient */
+.gradient {
+    background-image: linear-gradient(45deg, #b92b27, #1565C0);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
+
+
+hr.line {
+    border: 2.5px solid #db9d0b;
+    border-radius: 5px;
+    width: 30%;
+    float: left;
+}
+
+.experience {
+    margin-left: 650px;
+    width: 990px;
+    height: auto;
+    font-family: 'Mulish', sans-serif;
+    color: white;
+}
+
+.experience p {
+    font-size: 110%;
+    line-height: 20px;
+    color: white;
+}
+
+.experience a {
+    margin-right: 25px;
+    line-height: 20px;
+    font-family: 'Mulish', sans-serif;
+    font-size: 110%;
+    text-decoration: none;
+    color: white;
+}
+
+.sideExp {
+    float: right;
+    margin-top: 180px;
+    font-family: 'Mulish', sans-serif;
+}
+
+.sideExp p {
+    float: right;
+    line-height: 3px;
+    font-size: 110%;
+    color: white;
+}
+
+
+
+.skills {
+    margin-top: 76px;
+    margin-left: 650px;
+    width: 990px;
+    height: auto;
+    font-family: 'Mulish', sans-serif;
+}
+
+.skills p {
+    font-size: 110%;
+    line-height: 17px;
+    color: white;
+}
+
+.sideSkills {
+    float: right;
+    margin-top: 108px;
+    font-family: 'Mulish', sans-serif;
+}
+
+.sideSkills p {
+    float: right;
+    line-height: 3px;
+    font-size: 110%;
+    color: white;
+}
+
+.skill {
+    padding-top: 35px;
+}
+
+.featured {
+    margin-top: 80px;
+    margin-left: 650px;
+    width: 990px;
+    height: auto;
+    font-family: 'Mulish', sans-serif;
+}
+
+.featured p {
+    font-size: 110%;
+    line-height: 17px;
+    color: white;
+}
+
+.featured a {
+    font-size: 110%;
+    line-height: 17px;
+    color: white;
+    font-family: 'Mulish', sans-serif;
+    text-decoration: none;
+}
+
+.featured a:hover {
+    color: #db9d0b;
+}
+
+
+@media screen and (max-width: 480px) {
+  /* CSS Code for when the screen size is 480px Screen size */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
